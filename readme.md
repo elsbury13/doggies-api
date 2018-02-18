@@ -18,7 +18,10 @@ Documentation for the framework can be found on the [Lumen website](http://lumen
 ## Note
 Lumen needs
 
-PHP >= 7.1.3
-OpenSSL PHP Extension
-PDO PHP Extension
-Mbstring PHP Extension
+PHP >= 7.1.3,
+OpenSSL PHP Extension,
+PDO PHP Extension,
+Mbstring PHP Extension,
+
+![Screenshot](/public/main.png)
+![Screenshot](/public/breeds.png)
